@@ -66,4 +66,4 @@ npm run test
    - Clear transitions between game states
 
 
-not fixed
+lets fix it later
