@@ -64,3 +64,6 @@ npm run test
    - Proper reset of all states on restart
    - Cleanup of timer interval on component unmount
    - Clear transitions between game states
+
+
+not fixed
